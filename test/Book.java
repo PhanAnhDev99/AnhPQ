@@ -89,7 +89,7 @@ public class Book {
 
     @Override
     public String toString() {
-        return "book{" + "id=" + id + ", author=" + autor + ", title=" + title + ", genre=" + genre + ", price=" + price + ", publish_date=" + publish_date + ", description=" + description + '}';
+        return "book{" + "id=" + id + ", author=" + autor + ", title=" + title + ", genre=" + genre + ", price=" + price + ", publish_date=" + publish_date + ", description=" + description + '}' +  'Phan ANh dau buoi';
     }
     
 }
